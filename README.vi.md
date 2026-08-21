@@ -61,7 +61,7 @@ Tạo file `.env` ở thư mục gốc dự án:
 
 ```env
 DISCORD_BOT_TOKEN=your_discord_bot_token
-STAFF_CHANNEL_ID=123456789012345678
+STAFF_CHANNEL_ID=your_channel_id
 PAYOS_CLIENT_ID=your_payos_client_id
 PAYOS_API_KEY=your_payos_api_key
 PAYOS_CHECKSUM_KEY=your_payos_checksum_key
