@@ -101,8 +101,6 @@ Point your PayOS webhook URL to `http://<your-server>:5500/webhook` (behind a re
 - The bank account name/number fields in the payment embed (`command/payment_commands.py`) are left blank — fill them in with your actual account details, or pull them from the PayOS response if available.
 - Logs are written to `bot.log` as well as stdout.
 
-## Licenses
-
 ## License
 
 This project is open source and released under the **GNU General Public License v3.0 (GPL-3.0)**.
